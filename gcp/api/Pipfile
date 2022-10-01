@@ -10,7 +10,7 @@ google-cloud-pubsub = "==2.6.0"
 grpcio = "==1.47.0"
 grpcio-tools = "==1.47.0"
 osv = {editable = true, path = "../../"}
-packageurl-python = "==0.9.9"
+packageurl-python = "==0.10.3"
 packaging = "==20.9"
 requests = "==2.27.1"
 grpcio-reflection = "*"
